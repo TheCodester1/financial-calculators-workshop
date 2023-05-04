@@ -7,3 +7,7 @@
 
 ## CD Calculator 
 # lets user input deposit, interest rate, and number of years for an outcome of the CD's future value and total interest earned
+
+## Resources Used
+# Bootstrap
+# Font Awesome
